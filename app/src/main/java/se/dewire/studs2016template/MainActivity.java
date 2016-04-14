@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
 
     private DewireContestConnection s = null;
 
-    private static String GROUP_TAG = "Grp-"+Math.abs((new Random()).nextInt()%100000);     //Change this to your group name
+    private static String GROUP_TAG = "Studsify";     //Change this to your group name
 
 
     @Override

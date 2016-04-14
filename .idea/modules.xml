@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Studs2016Template.iml" filepath="$PROJECT_DIR$/Studs2016Template.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Studsify.iml" filepath="$PROJECT_DIR$/Studsify.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/Documents/Java/Studsify/app/app.iml" filepath="$USER_HOME$/Dropbox/Documents/Java/Studsify/app/app.iml" />
     </modules>
   </component>
 </project>
